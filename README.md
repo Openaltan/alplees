@@ -72,5 +72,5 @@ Alplees arayüzü koyu zemin, yumuşak panel ayrımları ve sıcak turuncu vurgu
 
 ## Not
 
-> Sesle yazma uygulaması. Bu repo yalnızca sürüm (release) dosyalarını barındırır.
+> Sesle yazma uygulaması. Bu repo uygulama kaynak kodunu değil, sürüm (release) dosyalarını barındırır.
 > Kurulum dosyaları, blockmap ve otomatik güncelleme metadata dosyaları GitHub Releases üzerinden yayınlanır.
