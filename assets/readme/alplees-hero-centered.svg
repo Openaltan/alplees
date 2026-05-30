@@ -1,0 +1,100 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Alplees</title>
+  <desc id="desc">Alplees için koyu temalı, turuncu vurgulu README tanıtım görseli.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7a3d"/>
+      <stop offset="1" stop-color="#ffb066"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14141c"/>
+      <stop offset="1" stop-color="#0b0b10"/>
+    </linearGradient>
+    <radialGradient id="glow-a" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(290 64) rotate(70) scale(360 520)">
+      <stop stop-color="#ff7a3d" stop-opacity="0.28"/>
+      <stop offset="0.58" stop-color="#ff7a3d" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#ff7a3d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 360) rotate(-140) scale(420 300)">
+      <stop stop-color="#ffb066" stop-opacity="0.20"/>
+      <stop offset="0.7" stop-color="#ffb066" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#ffb066" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30" y="-30" width="1260" height="500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="34" flood-color="#000000" flood-opacity="0.42"/>
+    </filter>
+    <filter id="soft" x="-40" y="-40" width="1280" height="500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="#0b0b10"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glow-a)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glow-b)"/>
+
+  <g opacity="0.45">
+    <path d="M70 72H1130" stroke="#ffffff" stroke-opacity="0.05"/>
+    <path d="M70 142H1130" stroke="#ffffff" stroke-opacity="0.04"/>
+    <path d="M70 212H1130" stroke="#ffffff" stroke-opacity="0.035"/>
+    <path d="M70 282H1130" stroke="#ffffff" stroke-opacity="0.03"/>
+    <path d="M70 352H1130" stroke="#ffffff" stroke-opacity="0.025"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="60" y="44" width="1080" height="332" rx="20" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.10"/>
+    <rect x="60" y="44" width="1080" height="48" rx="20" fill="#14141c"/>
+    <path d="M60 92H1140" stroke="#ffffff" stroke-opacity="0.08"/>
+    <circle cx="88" cy="68" r="6" fill="#f87171"/>
+    <circle cx="110" cy="68" r="6" fill="#ffb066"/>
+    <circle cx="132" cy="68" r="6" fill="#4ade80"/>
+    <text x="170" y="74" fill="#9a9aae" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13">Alplees masaüstü paneli</text>
+  </g>
+
+  <g transform="translate(98 128)">
+    <rect width="64" height="64" rx="18" fill="url(#accent)"/>
+    <text x="32" y="42" text-anchor="middle" fill="#1a1208" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="32" font-weight="800">A</text>
+    <text x="0" y="116" fill="#f3f3f7" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="750">Alplees</text>
+    <text x="3" y="150" fill="#c9c9d6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22">Sesle yazma, profesyonel dikte ve akıllı asistan</text>
+    <rect x="3" y="184" width="168" height="34" rx="17" fill="#1c1c28" stroke="#ffffff" stroke-opacity="0.10"/>
+    <circle cx="25" cy="201" r="5" fill="#ff7a3d"/>
+    <text x="40" y="207" fill="#ffd9b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="600">Windows release</text>
+    <rect x="188" y="184" width="156" height="34" rx="17" fill="#1c1c28" stroke="#ffffff" stroke-opacity="0.10"/>
+    <circle cx="210" cy="201" r="5" fill="#4ade80"/>
+    <text x="225" y="207" fill="#d8ffe6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="600">Yerel Whisper</text>
+  </g>
+
+  <g transform="translate(650 124)">
+    <rect x="0" y="0" width="420" height="206" rx="16" fill="#14141c" stroke="#ffffff" stroke-opacity="0.10"/>
+    <rect x="18" y="18" width="116" height="170" rx="12" fill="#0f0f16" stroke="#ffffff" stroke-opacity="0.07"/>
+    <rect x="36" y="36" width="36" height="36" rx="10" fill="url(#accent)"/>
+    <text x="54" y="60" text-anchor="middle" fill="#1a1208" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="800">A</text>
+    <rect x="36" y="92" width="74" height="10" rx="5" fill="#ffffff" fill-opacity="0.22"/>
+    <rect x="36" y="116" width="82" height="10" rx="5" fill="#ff7a3d" fill-opacity="0.75"/>
+    <rect x="36" y="140" width="58" height="10" rx="5" fill="#ffffff" fill-opacity="0.18"/>
+
+    <rect x="154" y="18" width="248" height="72" rx="12" fill="#1c1c28" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="176" y="46" fill="#f3f3f7" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700">Profesyonel Dikte</text>
+    <text x="176" y="70" fill="#9a9aae" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">Konuşma dilini yazılı metne dönüştürür</text>
+
+    <rect x="154" y="108" width="248" height="80" rx="12" fill="#0f0f16" stroke="#ffffff" stroke-opacity="0.08"/>
+    <g transform="translate(178 123)">
+      <rect x="0" y="16" width="7" height="18" rx="3.5" fill="#ff7a3d" opacity="0.45"/>
+      <rect x="17" y="4" width="7" height="42" rx="3.5" fill="#ff7a3d" opacity="0.78"/>
+      <rect x="34" y="12" width="7" height="26" rx="3.5" fill="#ffb066" opacity="0.92"/>
+      <rect x="51" y="0" width="7" height="50" rx="3.5" fill="#ff7a3d"/>
+      <rect x="68" y="10" width="7" height="30" rx="3.5" fill="#ffb066" opacity="0.90"/>
+      <rect x="85" y="18" width="7" height="15" rx="3.5" fill="#ff7a3d" opacity="0.55"/>
+      <rect x="102" y="8" width="7" height="34" rx="3.5" fill="#ffb066" opacity="0.82"/>
+      <rect x="119" y="15" width="7" height="20" rx="3.5" fill="#ff7a3d" opacity="0.55"/>
+      <rect x="136" y="5" width="7" height="40" rx="3.5" fill="#ffb066" opacity="0.85"/>
+      <rect x="153" y="19" width="7" height="13" rx="3.5" fill="#ff7a3d" opacity="0.45"/>
+    </g>
+    <rect x="342" y="139" width="36" height="18" rx="9" fill="url(#accent)"/>
+    <text x="360" y="148" text-anchor="middle" dominant-baseline="middle" fill="#1a1208" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="8" font-weight="800" letter-spacing="0.4">ON</text>
+  </g>
+
+  <g opacity="0.8" filter="url(#soft)">
+    <path d="M1017 68C1098 92 1139 147 1147 234" stroke="#ff7a3d" stroke-opacity="0.16" stroke-width="10" stroke-linecap="round"/>
+    <path d="M58 336C133 379 229 387 329 353" stroke="#ffb066" stroke-opacity="0.10" stroke-width="12" stroke-linecap="round"/>
+  </g>
+</svg>
