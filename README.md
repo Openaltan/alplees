@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/alplees-hero.svg" alt="Alplees - AI destekli sesle yazma" />
+  <img src="./assets/readme/alplees-hero-centered.svg" alt="Alplees - AI destekli sesle yazma" />
 </p>
 
 <p align="center">
