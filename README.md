@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://github.com/Openaltan/alplees/releases/latest">
-    <img alt="Alplees'i indir" src="https://img.shields.io/badge/Alplees'i%20indir-Releases-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+    <img alt="Alplees'i indir" src="https://img.shields.io/badge/Alplees%27i%20indir-Releases-14B8A6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@ En güncel Windows kurulum dosyasını aşağıdan indirebilirsin:
 
 <p>
   <a href="https://github.com/Openaltan/alplees/releases/latest">
-    <img alt="Son release'i aç" src="https://img.shields.io/badge/Son%20release'i%20a%C3%A7-GitHub%20Releases-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
+    <img alt="Son release'i aç" src="https://img.shields.io/badge/Son%20release%27i%20a%C3%A7-GitHub%20Releases-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
   </a>
 </p>
 
