@@ -77,7 +77,7 @@
     <text x="176" y="70" fill="#9a9aae" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12">Konuşma dilini yazılı metne dönüştürür</text>
 
     <rect x="154" y="108" width="248" height="80" rx="12" fill="#0f0f16" stroke="#ffffff" stroke-opacity="0.08"/>
-    <g transform="translate(178 143)">
+    <g transform="translate(178 123)">
       <rect x="0" y="16" width="7" height="18" rx="3.5" fill="#ff7a3d" opacity="0.45"/>
       <rect x="17" y="4" width="7" height="42" rx="3.5" fill="#ff7a3d" opacity="0.78"/>
       <rect x="34" y="12" width="7" height="26" rx="3.5" fill="#ffb066" opacity="0.92"/>
@@ -89,8 +89,8 @@
       <rect x="136" y="5" width="7" height="40" rx="3.5" fill="#ffb066" opacity="0.85"/>
       <rect x="153" y="19" width="7" height="13" rx="3.5" fill="#ff7a3d" opacity="0.45"/>
     </g>
-    <rect x="326" y="130" width="42" height="20" rx="10" fill="url(#accent)"/>
-    <text x="347" y="140" text-anchor="middle" dominant-baseline="middle" fill="#1a1208" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="9" font-weight="800" letter-spacing="0.4">ON</text>
+    <rect x="342" y="139" width="36" height="18" rx="9" fill="url(#accent)"/>
+    <text x="360" y="148" text-anchor="middle" dominant-baseline="middle" fill="#1a1208" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="8" font-weight="800" letter-spacing="0.4">ON</text>
   </g>
 
   <g opacity="0.8" filter="url(#soft)">
