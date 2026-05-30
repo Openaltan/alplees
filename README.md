@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/readme/alplees-hero-centered.svg" alt="Alplees - AI destekli sesle yazma" />
+  <a href="https://github.com/Openaltan/alplees/releases/latest">
+    <img src="./assets/readme/alplees-hero-centered.svg" alt="Alplees - AI destekli sesle yazma" />
+  </a>
 </p>
 
 <p align="center">
@@ -9,8 +11,12 @@
   <a href="https://github.com/Openaltan/alplees/releases">
     <img alt="İndirmeler" src="https://img.shields.io/github/downloads/Openaltan/alplees/total?label=indirme&style=for-the-badge&color=ffb066&labelColor=0b0b10" />
   </a>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-10%2B-1c1c28?style=for-the-badge&logo=windows11&logoColor=ffb066&labelColor=0b0b10" />
-  <img alt="Release repo" src="https://img.shields.io/badge/release%20repo-installer%20paketleri-14141c?style=for-the-badge&labelColor=0b0b10&color=14141c" />
+  <a href="https://github.com/Openaltan/alplees/releases/latest">
+    <img alt="Windows 10+" src="https://img.shields.io/badge/Windows-10%2B-1c1c28?style=for-the-badge&logo=windows11&logoColor=ffb066&labelColor=0b0b10" />
+  </a>
+  <a href="https://github.com/Openaltan/alplees/releases/latest">
+    <img alt="Release repo - installer paketleri" src="https://img.shields.io/badge/release%20repo-installer%20paketleri-14141c?style=for-the-badge&labelColor=0b0b10&color=14141c" />
+  </a>
 </p>
 
 <h3 align="center">Konuşmanı yakalar, metne dönüştürür, yazı diline taşır.</h3>
