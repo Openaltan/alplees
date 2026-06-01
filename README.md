@@ -45,13 +45,15 @@
 
 ## Son Sürümde Öne Çıkanlar
 
-`v0.2.2`, Alplees'in dikte kalitesini ve kişiselleştirme davranışını güçlendirir:
+`v0.2.3`, profesyonel dikte ve akıllı sözlük davranışını daha güvenilir hale getirir:
 
-- Profesyonel dikte modu artık doğal moddan daha net ayrılır.
-- Çok fikirli konuşmalarda paragraf, kısa başlık, madde işaretleri veya numaralı liste kullanımı iyileştirildi.
-- Otomatik öğrenme artık sözlüğe eklemeden önce kullanıcı onayı ister.
-- OpenRouter, ChatGPT, Gemini API, Whisper, Piper ve Alplees gibi teknik terimler varsayılan bağlama eklendi.
-- Türkçe dikte sırasında yanlış dil algısından kaynaklanan bozuk çıktıların yapıştırılmasını engelleyen kontroller eklendi.
+- Profesyonel mod artık soru, itiraz, talep ve örnek verme niyetini korur; soruları cevap gibi kesin hükme çevirmemesi için güçlendirildi.
+- Özellik ve kısayol anlatımlarında eşleştirme korunur; bir özelliğin kısayolu başka bir özelliğe taşınmaz.
+- Sözlük terimleri yalnızca metinde bağlamı varsa düzeltme için kullanılır; sözlükteki kelimelerin çıktıya sızması engellendi.
+- OpenRouter gibi yerleşik teknik terimler artık tekrar tekrar "sözlüğe ekleyeyim mi?" önerisi üretmez.
+- Kullanıcının dikte sonrası yaptığı özel terim düzeltmelerini yakalama akışı iyileştirildi.
+- Uzun profesyonel diktelerde içerik kaybı riskini azaltmak için çıktı bütçesi ve yerel model bağlamı artırıldı.
+- Asistan, aktif tarayıcı URL'sini ve TikTok video kimliğini bağlam olarak algılayabilecek ilk altyapıya kavuştu.
 
 ## İndir
 
