@@ -45,15 +45,12 @@
 
 ## Son Sürümde Öne Çıkanlar
 
-`v0.2.3`, profesyonel dikte ve akıllı sözlük davranışını daha güvenilir hale getirir:
+`v0.2.5`, kayıt ve işleme akışındaki takılma ve içerik kaybı sorunlarını giderir:
 
-- Profesyonel mod artık soru, itiraz, talep ve örnek verme niyetini korur; soruları cevap gibi kesin hükme çevirmemesi için güçlendirildi.
-- Özellik ve kısayol anlatımlarında eşleştirme korunur; bir özelliğin kısayolu başka bir özelliğe taşınmaz.
-- Sözlük terimleri yalnızca metinde bağlamı varsa düzeltme için kullanılır; sözlükteki kelimelerin çıktıya sızması engellendi.
-- OpenRouter gibi yerleşik teknik terimler artık tekrar tekrar "sözlüğe ekleyeyim mi?" önerisi üretmez.
-- Kullanıcının dikte sonrası yaptığı özel terim düzeltmelerini yakalama akışı iyileştirildi.
-- Uzun profesyonel diktelerde içerik kaybı riskini azaltmak için çıktı bütçesi ve yerel model bağlamı artırıldı.
-- Asistan, aktif tarayıcı URL'sini ve TikTok video kimliğini bağlam olarak algılayabilecek ilk altyapıya kavuştu.
+- Art arda hızlı kayıtlarda "Dinliyorum…" bildirimi artık kaybolmuyor; önceki kaydın gizleme zamanlayıcısının yeni kaydı gizlemesi engellendi.
+- "Temizleniyor…" ve "Çevriliyor…" adımındaki sonsuz takılma giderildi: dikte ve çeviri isteklerine zaman aşımı eklendi, yanıt gelmezse ham metne düşülür.
+- Yerel modelde takılan üretim ve uzun seslerde transkripsiyon (whisper-server) isteği de zaman aşımıyla korunuyor; pipeline artık kilitlenmiyor.
+- Profesyonel dikte içerik kaybı koruması: çıktı ham metnin yarısından kısaysa (aşırı özetleme) ham transkript korunur, söylenenler kaybolmaz.
 
 ## İndir
 
